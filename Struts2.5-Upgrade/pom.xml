@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
     	<javax.servlet-api.version>4.0.1</javax.servlet-api.version>
-    	 <struts2.version>2.5.20</struts2.version>
+    	 <struts2.version>2.5.30</struts2.version>
     	 <struts2-convention-plugin.version>2.5.20</struts2-convention-plugin.version>
 	</properties>
 	
